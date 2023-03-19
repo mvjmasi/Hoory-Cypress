@@ -1,0 +1,13 @@
+{
+  "name": "hoory-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {},
+  "author": "Masood Vaezi",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/cypress": "^9.0.0",
+    "@cypress": "^12.8.1"
+  }
+}
